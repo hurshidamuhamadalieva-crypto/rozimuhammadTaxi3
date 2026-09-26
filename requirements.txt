@@ -1,0 +1,6 @@
+# Aniq versiya emas, moslashuvchan oraliq - eski pip'da ham topilmay qolmasligi uchun.
+telethon>=1.40,<2
+python-dotenv>=1.1,<2
+rapidfuzz>=3.9,<4
+faster-whisper>=1.2,<2
+numpy>=1.26,<3
